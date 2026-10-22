@@ -17,7 +17,7 @@ def divide(a, b):
 
 
 def main():
-    print("=== Python Calculator ===")
+    print("=== Python Calculator v2 ===")
     print("Operations: +, -, *, /")
 
     try:
@@ -44,4 +44,5 @@ def main():
 
 
 if __name__ == "__main__":
+    
     main()
